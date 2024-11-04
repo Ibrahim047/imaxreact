@@ -1,4 +1,4 @@
-See the live demo of project at: imaxmovieapp.netlify.app
+See the live demo of project at: [imaxmovieapp.netlify.app](https://imaxmovieapp.netlify.app/)
 
 # Getting Started with Create React App
 
