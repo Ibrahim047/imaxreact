@@ -1,0 +1,32 @@
+.carousel-container {
+    padding-bottom: 50px;
+}
+
+.custom-dot-list-style {
+    bottom: 0px !important;
+}
+
+.custom-dot-list-style button {
+    border: none;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.custom-dot-list-style .react-multi-carousel-dot--active button {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+/* For dark mode */
+.dark .custom-dot-list-style button {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.dark .custom-dot-list-style .react-multi-carousel-dot--active button {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+/* Add padding to carousel items */
+.react-multi-carousel-item {
+    padding: 0 10px;
+}
+
+
